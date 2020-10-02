@@ -1,6 +1,6 @@
-# oFramework
+# Framework MVC
 
-This is a small little tiny framework created with O'clock's Hyperion students.
+Small MVC files organisation
 
 ## How tu use
 
